@@ -5,4 +5,4 @@ WORKDIR /Structured_enquiry
 COPY . .
 
 # Set student.py as the default command
-ENTRYPOINT ["python", "student.py"]
+ENTRYPOINT ["python", "student1.py"]
