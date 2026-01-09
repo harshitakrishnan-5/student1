@@ -2,7 +2,7 @@ import unittest
 from unittest.mock import patch
 import io
 import sys
-from Student import calculate_grade, main
+from student1 import calculate_grade, main
 
 
 class TestStudentGrade(unittest.TestCase):
